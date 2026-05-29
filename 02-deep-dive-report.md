@@ -9,7 +9,7 @@
 |---|-----------|------|-------|
 | 1 | Nguyễn Tài Khoa| 2A202600682| taikhoanguyen123@gmail.com |
 | 2 | Trần Đức Tâm | 2A202600803 | tranductam274@gmail.com |
-| 3 | Trần Ngọc Thụy | 2A202600799 | tranngocthuyls395@gamil.co, |
+| 3 | Trần Ngọc Thụy | 2A202600799 | tranngocthuyls395@gamil.com |
 
 
 ---
